@@ -32,4 +32,4 @@ You need to be on a linux machine on the SEE network.
 
 `images2gif.py` needs to be in the same directory as
 generate_chatmosphere.py (as it is here) so you can run it from this
-folder or put both files somewhere in your $PATH.
+folder or put both files somewhere in your $PYTHONPATH.
